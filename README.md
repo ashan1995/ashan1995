@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there, I'm Ashan 👋
 
-<!--
-**ashan1995/ashan1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Game Dev Hobbyist | Cloud Explorer
 
-Here are some ideas to get you started:
+I'm a developer passionate about building scalable web apps and experimenting with game engines. Here's a bit of what I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React
+- **Backend:** C# .NET Core (REST APIs)
+- **Cloud & DevOps:** Microsoft Azure, GitHub Actions, CMake
+- **Game Dev:** C++ with SFML (2D), CMake
+
+---
+
+### 🚧 Current Projects
+- **Metal Front** — A 2D game engine using C++ & SFML  
+  `→ Game architecture, real-time rendering, and CMake build system`
+
+- **Expense Tracker API** — A RESTful backend for managing expenses with .NET Core  
+  `→ Clean architecture, security best practices, Azure-ready`
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashan1995&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashan1995&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+- [Portfolio](https://ashan1995.github.io)
+- [LinkedIn](https://linkedin.com/in/ashanps)
+- [Email](mailto:ashanpsm@gmail.com)
+
+---
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
