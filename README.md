@@ -9,8 +9,8 @@ I'm a developer passionate about building scalable web apps and experimenting wi
 ### 🛠️ Tech Stack
 - **Frontend:** React
 - **Backend:** C# .NET Core (REST APIs)
-- **Cloud & DevOps:** Microsoft Azure, GitHub Actions, CMake
-- **Game Dev:** C++ with SFML (2D), CMake
+- **Cloud & DevOps:** Microsoft Azure, GitHub Actions
+- **Game Dev:** C++ with SFML (2D), CMake, OpenGL, Unity
 
 ---
 
@@ -18,7 +18,7 @@ I'm a developer passionate about building scalable web apps and experimenting wi
 - **Metal Front** — A 2D game engine using C++ & SFML  
   `→ Game architecture, real-time rendering, and CMake build system`
 
-- **Expense Tracker API** — A RESTful backend for managing expenses with .NET Core  
+- **Job Application Tracker** — A RESTful backend for managing job applications with .NET Core  
   `→ Clean architecture, security best practices, Azure-ready`
 
 ---
